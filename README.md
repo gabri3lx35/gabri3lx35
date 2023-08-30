@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-481b7226b/)
 
-![Gabri3lx35 GitHub stats](https://github-readme-stats.vercel.app/api?username=gabri3lx35&show_icons=true&theme=radical)
+![Gabri3lx35 GitHub stats](volto em breve!)
 
 ## Tecnologias que eu uso V:
 
